@@ -1,0 +1,9 @@
+course_id,course_name,category,course_level,course_duration_days,instructor_rating
+C102,Data Analysis with Python,Programming,Intermediate,60,4.7
+C106,Machine Learning A-Z,Programming,Advanced,90,4.6
+C101,Python Basics,Programming,Beginner,45,4.6
+C105,UI/UX Design Fundamentals,Design,Beginner,40,4.4
+C103,Introduction to AI,Programming,Intermediate,75,4.5
+C104,Digital Marketing Essentials,Marketing,Beginner,30,4.3
+C107,Statistics for Data Science,Math,Intermediate,50,4.2
+C108,Excel for Business,Business,Beginner,25,4.1
